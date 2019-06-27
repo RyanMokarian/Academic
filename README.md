@@ -10,4 +10,4 @@ Computer Organization Project:
 Image_Filtering
 
 Discrete Math Project:
-Propositional_Sentence_Truth_Assignment
+- Propositional_Sentence_Truth_Assignment
