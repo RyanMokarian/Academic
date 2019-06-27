@@ -7,7 +7,7 @@ Data Structure Projects:
 - Hash_Collision
 
 Computer Organization Project:
-Image_Filtering
+- Image_Filtering
 
 Discrete Math Project:
 - Propositional_Sentence_Truth_Assignment
