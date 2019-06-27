@@ -1,13 +1,13 @@
-Software Development Project:
+1. Software Development Project:
 - Personal_Budget_Manager
 
-Data Structure Projects:
+2. Data Structure Projects:
 - Deque_Insertion_Deletion_using_Array_Expansion
 - Graph_Shortest_Distance
 - Hash_Collision
 
-Computer Organization Project:
+3. Computer Organization Project:
 - Image_Filtering
 
-Discrete Math Project:
+4. Discrete Math Project:
 - Propositional_Sentence_Truth_Assignment
