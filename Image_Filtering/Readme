@@ -1,1 +1,2 @@
-
+Goal: to perform an assembly language's function in Java
+Task: filter foreground pixels of an image against its background using a SADM method.
